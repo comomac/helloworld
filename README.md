@@ -3,7 +3,7 @@ helloworld
 a wonderful beginning and a playful test sandbox.
 
 #### Usage: ####
-helloworld \<directory\>
+helloworld \[arguments\] \<directory\>
 
 #### Installation: ####
 1. Install [Open Source Software](http://www.github.org/)
