@@ -2,6 +2,9 @@ Usage:
 ---------------------------
 helloworld \<directory\>
 
+
+#### Arguments: ####
+---------------------------
     --noop       -n  Make no changes
     --recursive  -r  Recursively rename
     --force      -f  Force overwrite existing file if it exists
