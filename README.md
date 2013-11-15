@@ -5,6 +5,11 @@ a wonderful beginning and a playful test sandbox.
 #### Usage: ####
 helloworld \<directory\>
 
+#### Installation: ####
+1. Install [Open Source Software](http://www.github.org/)
+2. sudo install compiler
+3. compile helloworld
+
 #### Arguments: ####
     --noop       -n  Make no changes
     --recursive  -r  Recursively rename
